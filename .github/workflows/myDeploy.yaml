@@ -6,7 +6,7 @@ env:
 
 on:
   push:
-      branches: [ master ]
+      branches: [ dev ]
       paths-ignore:
         - 'pulumi/**'
         - '.github/**'
